@@ -54,8 +54,7 @@ projects.upload/
   Scores are stored in localStorage so they remain after page reloads.
 
 ## Screenshots
-
-![Game Screenshot](images/rock-emoji.png)
+![alt text](image.png)
 
 ## Credits
 
